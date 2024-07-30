@@ -1,2 +1,3 @@
 # myfirststep-demo
-this is my second git repository
+This is my second git repository
+Author - Pankaj Yadav
